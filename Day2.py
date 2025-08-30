@@ -187,8 +187,3 @@
 #     print("This number is multiple of 9")
 # else:
 #     print("your number is not multiple")
-
-
-a = 8000
-percentage = 8000 * 3/100
-print(percentage)
